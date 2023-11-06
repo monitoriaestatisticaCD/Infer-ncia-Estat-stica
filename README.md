@@ -23,3 +23,6 @@ Durante a disciplina de Laboratório de Ciência de Dados, utilizamos as seguint
 
 * R e Rstudio
   - é um programa (IDE) que permite uma interface de trabalho mais amigável para rodar o R (software).
+
+* Canva
+  - é uma plataforma de design gráfico que permite criar gráficos de mídia social, apresentações, infográficos, pôsteres e outros conteúdos visuais.
